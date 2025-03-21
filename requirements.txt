@@ -1,0 +1,6 @@
+phpserialize
+unicodedata
+requests
+beautifulsoup4
+mysql-connector-python
+logging
