@@ -32,8 +32,7 @@ mysql-connector-python
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/product-scraper.git
-   cd product-scraper
+   git clone https://github.com/OmeshInusha/woocommerce_scraping.git
    ```
 
 2. Install required packages:
@@ -84,7 +83,7 @@ and from this find path for next mention parameters
 Run the script from the command line:
 
 ```
-python product_scraper.py
+python wsm.py
 ```
 
 You will be prompted to enter the following information:
